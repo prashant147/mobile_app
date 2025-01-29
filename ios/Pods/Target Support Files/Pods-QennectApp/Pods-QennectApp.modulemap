@@ -1,0 +1,6 @@
+module Pods_QennectApp {
+  umbrella header "Pods-QennectApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

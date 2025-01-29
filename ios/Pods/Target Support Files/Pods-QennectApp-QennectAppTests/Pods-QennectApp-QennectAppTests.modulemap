@@ -1,0 +1,6 @@
+module Pods_QennectApp_QennectAppTests {
+  umbrella header "Pods-QennectApp-QennectAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

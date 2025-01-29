@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-quick-base64/cpp/react-native-quick-base64.h
