@@ -39,7 +39,9 @@ target 'QennectApp' do
   pod 'FirebaseSessions', :modular_headers => true
   pod 'GoogleIDFASupport', :modular_headers => true
   pod 'GoogleTagManager', :modular_headers => true
-
+  pod 'FirebaseRemoteConfig', :modular_headers => true
+  pod 'FirebaseABTesting', :modular_headers => true
+  pod 'RNFBPerf', :path => '../node_modules/@react-native-firebase/perf'
   # Setup permissions
   setup_permissions([
     'PhotoLibrary',         # Enable access to the Photo Library
